@@ -1,8 +1,7 @@
-- 👋 Merhaba dostum sayfama hoşgeldin, ben Batuhan nâmı değer @ertocode (ertokut)
-- 👀 Kendi kişisel hobim olarak kod yazıyorum ve yaptığım projeleri sayfamda paylaşıyorum...
-- 🌱 Sayfamı beğendiysen Discord sunucumuza gelebilirsin: https://discord.gg/FZ3vbvmPfR...
-- 📫 Bana hangi sayfalardan ulaşabilirsin :https://www.youtube.com/channel/UCybFtJ9d5I8u02YaD5N5RvQ,https://www.twitch.tv/ertokut,https://mobile.twitter.com/ertokutdesigns...
+- 👋 Kişisel Github Sayfam
+- ⚡ Never Lose Your Smile 
+- 📫 ertokut@gmail.com
 
 <!---
-ertocode/ertocode ✨ B u S a y f a K e n di K i ş i s e l S a y f a m d ı r ✨
+ertocode/ertocode ✨https://www.instagram.com/direct/t/6793495660713293/✨
 --->
